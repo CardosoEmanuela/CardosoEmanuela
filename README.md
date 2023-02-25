@@ -11,7 +11,7 @@
   <img align="center" alt="Manu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Manu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Manu-DART" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg">
-  <img align="right" alt="Manu-Manu" src="https://cdn.discordapp.com/avatars/1044717583510818907/b0a449625a8f29b9e90bf3c35c63fbe6.webp">
+  <img align="right" alt="Manu-Yoda" src="https://media.tenor.com/-Gm4BBfce-MAAAAj/babyyoda.gif">
 
 </div>
   
